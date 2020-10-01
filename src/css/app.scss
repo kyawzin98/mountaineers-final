@@ -1,0 +1,9 @@
+// app global css in SCSS form
+@font-face {
+  font-family: jarbody2;
+  src: url("./../../public/myfonts/Poppins.ttf");
+}
+body{
+  font-family: "Poppins", sans-serif;
+  color: #262626;
+}

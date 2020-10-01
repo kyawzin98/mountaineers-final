@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1110px" height="301px" viewBox="0 0 1110 301" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Graphic</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1110" height="301" rx="10"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-197.000000, -362.000000)">
+            <g id="Graphic" transform="translate(197.000000, 362.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#EBCD0A" xlink:href="#path-1"></use>
+                <circle id="Oval-Copy" fill="#FFFFFF" opacity="0.389299665" mask="url(#mask-2)" cx="1083.5" cy="32.5" r="129.5"></circle>
+                <circle id="Oval-Copy-4" fill="#FFFFFF" opacity="0.397065662" mask="url(#mask-2)" cx="55.5" cy="-17.5" r="129.5"></circle>
+                <circle id="Oval-Copy-3" fill="#FFFFFF" opacity="0.362490699" mask="url(#mask-2)" cx="1110" cy="274" r="80"></circle>
+                <circle id="Oval-Copy-5" fill="#FFFFFF" opacity="0.203729539" mask="url(#mask-2)" cx="136" cy="112" r="80"></circle>
+                <circle id="Oval-Copy-2" fill="#FFFFFF" opacity="0.154203869" mask="url(#mask-2)" cx="1068.5" cy="150.5" r="114.5"></circle>
+                <circle id="Oval-Copy-6" fill="#FFFFFF" opacity="0.343796503" mask="url(#mask-2)" cx="216.5" cy="252.5" r="114.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

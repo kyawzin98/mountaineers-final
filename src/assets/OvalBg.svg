@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="790px" viewBox="0 0 1440 790" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Oval</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="48.8939624%" y1="52.3832357%" x2="66.3082847%" y2="70.3988947%" id="linearGradient-1">
+            <stop stop-color="#E3DCAD" offset="0%"></stop>
+            <stop stop-color="#EBCD0A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.714471726">
+        <g id="Artboard-Copy" fill="url(#linearGradient-1)">
+            <ellipse id="Oval" cx="720" cy="395" rx="720" ry="395"></ellipse>
+        </g>
+    </g>
+</svg>
