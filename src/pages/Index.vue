@@ -682,17 +682,7 @@
       </div>
     </div>
     <!-- New Letter Section -->
-    <!-- Load Facebook SDK for JavaScript -->
-    <div id="fb-root"></div>
-    <!-- Your Chat Plugin code -->
-    <div class="fb-customerchat"
-         attribution=setup_tool
-         page_id="104289111362872"
-         theme_color="#fa3c4c"
-         logged_in_greeting="ဘာလဲပြော"
-         logged_out_greeting="ဘိုင်ဘိုင်">
-    </div>
-
+    <FBChat/>
     <!-- Footer Section -->
     <Footer />
     <!-- Footer Section -->
@@ -700,15 +690,15 @@
 </template>
 
 <script>
-import "../helper/fbMessenger";
 import WaveBg from "../components/Svg/WaveBg";
 import TopNavBar from "../layouts/components/TopNavBar";
 import PeopleSittingWithLaptop from "../components/Svg/PeopleSittingWithLaptop";
 import Footer from "../layouts/components/Footer";
+import FBChat from "components/FBChat";
 export default {
   name: "Index",
   // eslint-disable-next-line vue/no-unused-components
-  components: { Footer, PeopleSittingWithLaptop, TopNavBar, WaveBg },
+  components: {FBChat, Footer, PeopleSittingWithLaptop, TopNavBar, WaveBg },
   data: () => ({
     testimonialSlide: "2",
     recentPostSlide: "1",
